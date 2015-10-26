@@ -2,9 +2,9 @@
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Basic Phone Gap</name>
     <description>
-       My first PhoneGap app
+        Info about my application
     </description>
-    <author email="camussk8@gmail.com" href="http://sergiocamus.com">
+    <author email="support@phonegap.com" href="http://phonegap.com">
         SirCamus
     </author>
     <content src="index.html" />
